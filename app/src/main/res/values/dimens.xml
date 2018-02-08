@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tipText_marginBottom">128dp</dimen>
+    <dimen name="tipText_marginEnd">52dp</dimen>
+    <dimen name="radio_margin">8dp</dimen>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="Tip">Tip</string>
+    <string name="Total_Bill">Total bill</string>
+    <string name="Total_per_person">Total/person</string>
+    <string name="num_People_Hint">How many people are splitting?</string>
+    <string name="total_bill_hint">How much was the bill?</string>
+    <string name="Calc_button">Calculate Tip</string>
+    <string name="Reset_button">Reset</string>
+    <string name="CustomTip_button">Custom Tip</string>
+    <string name="Total_Text_hint">Total</string>
+    <string name="ten_percent">10% Tip</string>
+    <string name="twenty_percent">20% Tip</string>
+    <string name="fifteen_percent">15% Tip</string>
+</resources>
